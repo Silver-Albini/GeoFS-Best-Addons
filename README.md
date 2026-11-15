@@ -1,12 +1,12 @@
-# About This Repository
+## About This Repository
 
 This repository organizes several community-made Tampermonkey scripts for GeoFS into separate folders (`main.js` per add-on) so they are easy to manage, update, and load together without cluttering your browser extension.
 
-# Why These Add-ons?
+### Why These Add-ons?
 
 I picked these six scripts because they cover the essentials - better graphics, custom aircraft and liveries, improved navigation, and realistic failures - while running smoothly together without major conflicts. ***If you have a favorite add-on you'd like me to add to this collection, feel free to open an issue in this repository.***
 
-# What Each Add-on Does
+### What Each Add-on Does
 
 * **GeoFS Pro (HD and AD Free) Improved:** Removes banner ads and forces higher-resolution satellite terrain imagery.
 * **GeoFS LiverySelector:** Adds a menu (press `L` in-game) to switch between custom aircraft paint jobs.
@@ -15,7 +15,7 @@ I picked these six scripts because they cover the essentials - better graphics, 
 * **GeoFS Failure Simulator:** Triggers random or manual mid-air emergencies like engine fires and instrument failures.
 * **GeoFS Better NAV Map:** Replaces the default navigation map tiles with cleaner, more detailed map imagery.
 
-# BEST WAY TO ENABLE THE ADD-ONS
+### BEST WAY TO ENABLE THE ADD-ONS
 
 - [ ] Go to https://www.chromewebstore.com/ for Chrome **OR** go to https://microsoftedge.microsoft.com/ for Edge.
 - [ ] Search Tampermonkey and install the extension *(the normal one, not the BETA version)*.
@@ -25,7 +25,7 @@ I picked these six scripts because they cover the essentials - better graphics, 
 - [ ] Go to GeoFS (or refresh the tab if it is already open).
 - [ ] Now you're all set!
 
-# Credits
+### Credits
 Full credit goes to the original creators and contributors who built and maintain these scripts:
 
 - GeoFS Pro (HD and AD Free) Improved • M. Dallen Shelly
@@ -45,6 +45,6 @@ Full credit goes to the original creators and contributors who built and maintai
 ---
 
 <div align="center">
-  <sub>GeoFS Best Add-ons Collection &bull; Maintained by Silver-Albini</sub><br>
+  <sub>GeoFS Best Add-ons Collection &bull; Maintained by <a href="https://github.com/Silver-Albini">Silver-Albini</a></sub><br>
   <sub>Not affiliated with GeoFS. All scripts belong to their respective authors.</sub>
 </div>
